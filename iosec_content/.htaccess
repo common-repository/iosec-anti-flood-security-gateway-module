@@ -1,0 +1,4 @@
+deny from all
+<Files logo.png>
+allow from all
+</Files>
